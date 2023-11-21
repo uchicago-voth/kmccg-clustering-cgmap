@@ -10,6 +10,6 @@ CG_mapping.py: A sample code to generate the *.yaml file for mscg.cgmap function
 
 Reference:
     Please cite this paper if you think this notebook is useful for your research! Thank you very much!
-    https://pubs.acs.org/doi/10.1021/acs.jctc.3c01053
-    Jiangbo Wu, Weizhi Xue, and Gregory A. Voth, J. Chem. Theory Comput. 2023
+    https://pubs.acs.org/doi/10.1021/acs.jctc.3c01053.
+    Jiangbo Wu, Weizhi Xue, and Gregory A. Voth, J. Chem. Theory Comput. 2023.
     K-Means Clustering Coarse-Graining (KMC-CG): A Next Generation Methodology for Determining Optimal Coarse-Grained Mappings of Large Biomolecules
